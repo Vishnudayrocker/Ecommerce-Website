@@ -16,7 +16,3 @@
 
 ![Screenshot (266)](https://github.com/QuantumCoding123/Day-86-Altimate-E-commerce-Shopping-Website-Template/assets/166281221/01d89d03-9558-45dd-a9fb-bc8896946bcc)
 
-# Output - 5
-
-![Screenshot (269)](Altimate-E-commerce-Shopping-Website-Template/assets/166281221/2dff9fa3-4667-4c72-99e2-837aa72f1eaa)
-
